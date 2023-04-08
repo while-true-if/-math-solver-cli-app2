@@ -8,7 +8,7 @@ int main()
     int r;
     int c;
 
-    while ()
+    while (1)
     {
         printf("Please enter a number following the instructions below:\n");
         printf("Encryption: 0, Decryption: 1\n");
